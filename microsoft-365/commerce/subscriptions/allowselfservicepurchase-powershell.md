@@ -100,10 +100,13 @@ The following table lists the available products and their **ProductId**. It als
 | Power BI Pro* | CFQ7TTC0H9MP | No |
 | Project Plan 1* | CFQ7TTC0HDB1 | Yes |
 | Project Plan 3* | CFQ7TTC0HDB0 | No |
+| Python On Excel | CFQ7TTC0S3X1 | No |
 | Teams Exploratory | CFQ7TTC0J1FV | Yes |
+| Teams Premium | CFQ7TTC0RM8K | Yes |
 | Visio Plan 1* | CFQ7TTC0HD33 | No |
 | Visio Plan 2* | CFQ7TTC0HD32 | No |
 | Viva Goals (self-service trials only) | CFQ7TTC0PW0V | Yes |
+| Viva Learning | CFQ7TTC0HVZG | No |
 | Windows 365 Enterprise | CFQ7TTC0HHS9 | No |
 | Windows 365 Business | CFQ7TTC0J203 | No |
 | Windows 365 Business with Windows Hybrid Benefit | CFQ7TTC0HX99 | No |
